@@ -26,6 +26,8 @@ devops-infra-automation/
 ├── .gitignore
 └── README.md
 
+
+```markdown
 ## What This Project Does
 
 ### Terraform
